@@ -24,7 +24,7 @@ react-native-svg · Jest
 
 | Início | Lançamentos | Contas bancárias |
 | ------ | ----------- | ---------------- |
-| ![Início](docs/inicio.jpg) | ![Lista](docs/lancamentos.jpg) | ![Bancos](docs/bancos.jpg) |
+| ![Início](docs/inicio.png) | ![Lista](docs/lancamentos.png) | ![Bancos](docs/bancos.png) |
 
 ## Como executar
 
